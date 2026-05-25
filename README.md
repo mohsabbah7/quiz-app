@@ -1,5 +1,4 @@
-Here's a README for your quiz app:
-markdown# 🧠 Quiz Application
+ 🧠 Quiz Application
 
 A secure quiz web application built with Spring Boot, Thymeleaf, and Spring Security.
 
